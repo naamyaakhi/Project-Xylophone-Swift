@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Xylophone
 //
-//  Created by AkhsanNasution on 28/06/2019.
+//  Created by Altamis Hail Ahsan Nasution on 28/06/2019.
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
